@@ -1,0 +1,20 @@
+{
+    "Author": "Brian Christopher Harrison",
+    "ContentSize": 87462,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/stop-v2-vms-and-vm-scales-sets-by-tag-(graphical)/master/StopRMVMsbyTag.graphrunbook",
+    "DownloadCount": 1246,
+    "Id": "Stop-V2-VMs-and-VM-Scales-88614e65",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 390,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2017-6-13T00:00:00",
+    "RunbookKind": 3,
+    "RunbookKindString": "Graphical Powershell",
+    "Summary": "DESCRIPTIONThis Graphical PowerShell runbook connects to Azure and stops all V2 VMs in an Azure subscription and resource group where a VM or VM Scale Set contains a User Defined Tag Name and Value. You can attach a recurring schedule to this runbook to run it at a specific time.",
+    "Title": "Stop V2 VMs and VM Scales Sets by Tag (Graphical)",
+    "UpdatedDate": "2017-6-13T00:00:00",
+    "Url": "https://github.com/azureautomation/stop-v2-vms-and-vm-scales-sets-by-tag-(graphical)",
+    "UserTags": ""
+}
